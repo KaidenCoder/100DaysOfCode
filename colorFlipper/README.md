@@ -1,6 +1,6 @@
-# analogClock
+# Color Flipper
 
-Color Flipper
+Color changes when the button is clicked
 
 ## Project Info
 

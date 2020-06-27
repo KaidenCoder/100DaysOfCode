@@ -1,6 +1,6 @@
-# analogClock
+# Tap Music
 
-Tap the Music
+Tap the colors and listen to the music
 
 ## Project Info
 

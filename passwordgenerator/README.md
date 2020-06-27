@@ -1,6 +1,6 @@
-# analogClock
+# Password generator
 
-Password generator
+Password generator generates random password
 
 ## Project Info
 
